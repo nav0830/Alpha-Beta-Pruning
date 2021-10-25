@@ -1,0 +1,35 @@
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+body {
+    background-color: black;
+}
+
+.nodes, .leaf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.btns {
+    padding: 10px 20px;
+}
+
+/* button {
+    margin: 30px;
+} */
+
+.form-label {
+    color: aliceblue;
+}
+
+.canva {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
